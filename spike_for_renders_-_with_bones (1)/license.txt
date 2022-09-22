@@ -1,0 +1,11 @@
+Model Information:
+* title:	spike for renders - with bones
+* source:	https://sketchfab.com/3d-models/spike-for-renders-with-bones-6e4ee8a4ab10417cba9fd82f89438d9c
+* author:	xxcoobloyxx (https://sketchfab.com/xxcoobloyxx)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "spike for renders - with bones" (https://sketchfab.com/3d-models/spike-for-renders-with-bones-6e4ee8a4ab10417cba9fd82f89438d9c) by xxcoobloyxx (https://sketchfab.com/xxcoobloyxx) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
